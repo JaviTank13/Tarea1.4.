@@ -1,0 +1,2 @@
+*.class
+# Ignorar los .class que ejecuta java
